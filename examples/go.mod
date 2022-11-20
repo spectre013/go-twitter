@@ -1,4 +1,4 @@
-module github.com/dghubble/go-twitter/examples
+module github.com/spectre013/go-twitter/examples
 
 go 1.17
 
@@ -18,4 +18,4 @@ require (
 	google.golang.org/appengine v1.4.0 // indirect
 )
 
-replace github.com/dghubble/go-twitter/twitter => ../
+replace github.com/spectre013/go-twitter/twitter => ../
