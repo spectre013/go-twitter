@@ -6,7 +6,7 @@ import (
 	"log"
 
 	"github.com/coreos/pkg/flagutil"
-	"github.com/dghubble/go-twitter/twitter"
+	"github.com/spectre013/go-twitter/twitter"
 	"golang.org/x/oauth2"
 	"golang.org/x/oauth2/clientcredentials"
 )

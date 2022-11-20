@@ -4,7 +4,7 @@ Notable changes over time. Note, `go-twitter` does not follow a semver release c
 
 ## 07/2019
 
-* Add Go module support ([#143](https://github.com/dghubble/go-twitter/pull/143))
+* Add Go module support ([#143](https://github.com/spectre013/go-twitter/pull/143))
 
 ## 11/2018
 
