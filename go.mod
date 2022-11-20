@@ -1,4 +1,4 @@
-module github.com/dghubble/go-twitter
+module github.com/spectre013/go-twitter
 
 go 1.17
 
