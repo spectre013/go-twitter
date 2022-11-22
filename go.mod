@@ -1,9 +1,9 @@
-module github.com/spectre013/go-twitter
+module github.com/spectre013/go-twitter/twitter
 
 go 1.17
 
 require (
-	github.com/cenkalti/backoff/v4 v4.1.3
+	github.com/cenkalti/backoff/v4 v4.2.0
 	github.com/dghubble/sling v1.4.0
 	github.com/stretchr/testify v1.8.1
 )
@@ -14,5 +14,3 @@ require (
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
-
-replace github.com/dghubble/go-twitter => github.com/spectre013/go-twitter
